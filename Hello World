@@ -1,0 +1,13 @@
+# // Comments
+// author: LetsGoCoconat
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "Hello World\n";
+	cout << "My name is LetsGoCoco";
+	system("pause");
+	return 0;
+}
